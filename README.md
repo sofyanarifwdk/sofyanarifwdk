@@ -14,7 +14,7 @@ Cara penggunaan git atau github untuk berkolaborasi mengelola pekerjaan
 *   apabila belum dilakukan konfigurasi, akan mengakibatkan terjadi kegagalan 
     saat menjalankan perintah git commit.
 *   Config Global Repository
-
+![downloadgit](https://user-images.githubusercontent.com/79274212/195904905-ad5c7f21-b92b-4416-acb0-f5d657e5842d.png)
 <img scr="tugas/images/gitconfig.png">
 
 ### 2. Perintah dasar Git
