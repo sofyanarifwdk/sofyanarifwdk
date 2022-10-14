@@ -9,9 +9,7 @@ Cara penggunaan git atau github untuk berkolaborasi mengelola pekerjaan
     buka CMD atau PowerShell, kemudian ketik perintah.
 
     **caragambar mendowload Git di (git-scm.com)**
-
-    
-
+    <img scr="tugas/images/download git.JPG">
 *   Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi
     user.name dan user.email
 *   konfigurasi ini bisa dilakukan untuk global repostiry atau individual
