@@ -3,20 +3,19 @@ Cara penggunaan git atau github untuk berkolaborasi mengelola pekerjaan
 
 ### 1. Download Git
 *   Download Git, buka website resminya Git (git-scm.com).
+![downloadgit](https://user-images.githubusercontent.com/79274212/195904905-ad5c7f21-b92b-4416-acb0-f5d657e5842d.png)
 *   Kemudian unduh Git sesuai dengan arsitektur komputer kita. Kalau
     menggunakan 64bit, unduh yang 64bit. Begitu juga kalau menggunakan 32bit.
 *   Selamat, Git sudah terinstal di Windows. Untuk mencobanya, silahkan
     buka CMD atau PowerShell, kemudian ketik perintah.
-<img scr="tugas/images/downloadgit.png">
 
+<img scr="tugas/images/gitversion.png">
 *   Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi user.name dan user.email 
 *   konfigurasi ini bisa dilakukan untuk global repostiry atau individual repository.
 *   apabila belum dilakukan konfigurasi, akan mengakibatkan terjadi kegagalan 
     saat menjalankan perintah git commit.
 *   Config Global Repository
-![downloadgit](https://user-images.githubusercontent.com/79274212/195904905-ad5c7f21-b92b-4416-acb0-f5d657e5842d.png)
 <img scr="tugas/images/gitconfig.png">
-
 ### 2. Perintah dasar Git
 * git config
     Salah satu perintah git yang paling banyak digunakan adalah git config, yang bisa digunakan untuk mengatur konfigurasi tertentu sesuai keinginan pengguna, seperti email, algoritma untuk diff, username, format file, dll. Contohnya, perintah berikut bisa digunakan untuk mengatur email:
@@ -26,6 +25,8 @@ Cara penggunaan git atau github untuk berkolaborasi mengelola pekerjaan
 
 * git init
     Perintah ini digunakan untuk membuat repositori baru. Caranya:
+
+
 
 * git add
     Perintah git add bisa digunakan untuk menambahkan file ke index. Contohnya, perintah berikut ii akan menambahkan file bernama temp.txt yang ada di direktori lokal ke index:
@@ -50,8 +51,19 @@ Cara penggunaan git atau github untuk berkolaborasi mengelola pekerjaan
 
     Untuk berpindah dari branch satu ke lainnya, gunakan:
 
-* git remote
+* git remote add origin [url]
     Perintah git remote akan membuat user terhubung ke remote repository. Perintah berikut ini akan menampilkan repository yang sedang dikonfigurasi:    
 
     Perintah ini membuat user bisa menghubungkan repository lokal ke remote server:
 
+*git branch
+    Perintah git branch bisa digunakan untuk me-list, membuat atau menghapus branch. Untuk menampilkan semua branch yang ada di repository, gunakan:
+
+    Untuk menghapus branch:
+
+*git pull
+    Untuk menggabungkan semua perubahan yang ada di remote repository ke direktori lokal, gunakan perintah pull:
+
+*git merge
+    Perintah merge digunakan untuk menggabungkan sebuah branch ke branch aktif. Gunakan:
+    
