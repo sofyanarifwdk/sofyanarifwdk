@@ -7,22 +7,21 @@ Cara penggunaan git atau github untuk berkolaborasi mengelola pekerjaan
     menggunakan 64bit, unduh yang 64bit. Begitu juga kalau menggunakan 32bit.
 *   Selamat, Git sudah terinstal di Windows. Untuk mencobanya, silahkan
     buka CMD atau PowerShell, kemudian ketik perintah.
+<img scr="tugas/images/downloadgit.png">
 
-    **caragambar mendowload Git di (git-scm.com)**
-    <img scr="tugas/images/download git.JPG">
-*   Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi
-    user.name dan user.email
-*   konfigurasi ini bisa dilakukan untuk global repostiry atau individual
-    repository.
-*   apabila belum dilakukan konfigurasi, akan mengakibatkan terjadi kegagalan
+*   Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi user.name dan user.email 
+*   konfigurasi ini bisa dilakukan untuk global repostiry atau individual repository.
+*   apabila belum dilakukan konfigurasi, akan mengakibatkan terjadi kegagalan 
     saat menjalankan perintah git commit.
 *   Config Global Repository
+<img scr="tugas/images/gitconfig.png">
 
 
 ### 2. Perintah dasar Git
 * git config
     Salah satu perintah git yang paling banyak digunakan adalah git config, yang bisa digunakan untuk mengatur konfigurasi tertentu sesuai keinginan pengguna, seperti email, algoritma untuk diff, username, format file, dll. Contohnya, perintah berikut bisa digunakan untuk mengatur email:
 
+<img scr="tugas/images/gitconfig.png">
 
 
 * git init
