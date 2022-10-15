@@ -8,6 +8,7 @@ Cara penggunaan git
     menggunakan 64bit, unduh yang 64bit. Begitu juga kalau menggunakan 32bit.
 *   Selamat, Git sudah terinstal di Windows. Untuk mencobanya, silahkan
     buka CMD atau PowerShell, kemudian ketik perintah.
+
 ![gitversion](https://user-images.githubusercontent.com/79274212/195976191-83f8771c-71bd-4cde-8ce2-43ef49eed928.png
 <img scr="tugas/images/gitversion.png">
 
