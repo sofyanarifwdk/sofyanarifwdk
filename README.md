@@ -24,11 +24,10 @@ Cara penggunaan git
 * git config
     Salah satu perintah git yang paling banyak digunakan adalah git config, yang bisa digunakan untuk mengatur konfigurasi tertentu sesuai keinginan pengguna, seperti email, algoritma untuk diff, username, format file, dll. Contohnya, perintah berikut bisa digunakan untuk mengatur email:
     
-    '''bash
-    
+
+    <br><br>    
     $ git config --global user.email sam@google.com
     
-    '''
 
 <img scr="tugas/images/gitconfig.png">
 
@@ -36,30 +35,26 @@ Cara penggunaan git
 * git init
     Perintah ini digunakan untuk membuat repositori baru. Caranya:
 
-    '''bash    
+  
     
     $ git init
     
-    '''
+
 
 <img scr="tugas/images/gitinit.png">
 
 
 * git add
     Perintah git add bisa digunakan untuk menambahkan file ke index. Contohnya, perintah berikut ini akan menambahkan file bernama temp.txt yang ada di direktori lokal ke index:
-    
-    '''bash
+
     
     $ git add temp.txt
-    
-    '''
+
 
 <img scr="tugas/images/gitadd.png">
 
 * git clone
     Perintah git clone digunakan untuk checkout repositori. Jia repositori berada di remove server, gunakan:
-    
-    
     
     $ git clone alex@93.188.160.58:/path/to/repository
 
