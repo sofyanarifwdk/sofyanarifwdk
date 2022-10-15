@@ -9,7 +9,7 @@ Cara penggunaan git
 *   Selamat, Git sudah terinstal di Windows. Untuk mencobanya, silahkan
     buka CMD atau PowerShell, kemudian ketik perintah.
 
-![gitversion](https://user-images.githubusercontent.com/79274212/195976191-83f8771c-71bd-4cde-8ce2-43ef49eed928.png
+![gitversion](https://user-images.githubusercontent.com/79274212/195978591-bc684e7f-d79b-447b-b1a6-f5a8c6a56534.png)
 <img scr="tugas/images/gitversion.png">
 
 *   Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi user.name dan user.email 
